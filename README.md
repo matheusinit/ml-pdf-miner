@@ -10,7 +10,7 @@ To use this project, follow these steps:
 3. Make the steps for Installation described below
 
 ## Installation
-To run this project, you will need to have Python installed on your machine.
+To run this project, you will need to have Python installed on your machine. The version used is `3.11.8`, so the recommended is to use `3.11.x` versions of Python. **We do not guarantee to work in previous or further versions**.
 
 ### Virtual Environment Setup
 To ensure a clean and isolated environment for this project, it is recommended to set up a virtual environment using Python's `virtualenv` package. Follow these steps to create and activate a virtual environment:
