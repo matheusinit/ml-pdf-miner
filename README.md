@@ -3,18 +3,16 @@
 ## Overview
 In this project, we aim to build a machine learning model to solve a specific problem using the power of data analysis and predictive modeling. We will be leveraging the Python programming language along with the popular data manipulation library pandas and the machine learning library Scikit-learn.
 
-## Installation
-To run this project, you will need to have Python installed on your machine. Additionally, you will need to install the following libraries:
-- pandas: `pip install pandas`
-- Scikit-learn: `pip install scikit-learn`
-
 ## Usage
 To use this project, follow these steps:
 1. Clone the repository: `git clone https://github.com/matheusinit/ml-pdf-miner.git`
 2. Navigate to the project directory: `cd ml-pdf-miner`
-3. Make setup of virtualenv (described below)
+3. Make the steps for Installation described below
 
-## Virtual Environment Setup
+## Installation
+To run this project, you will need to have Python installed on your machine.
+
+### Virtual Environment Setup
 To ensure a clean and isolated environment for this project, it is recommended to set up a virtual environment using Python's `virtualenv` package. Follow these steps to create and activate a virtual environment:
 
 1. Install `virtualenv` if you haven't already:
